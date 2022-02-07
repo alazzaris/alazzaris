@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2a4848,50:008d8c,100:77d183&text=Hi%20there,%20I%27m%20Alberto%20Lazzaris!&fontColor=000000&fontSize=25" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2a4848,50:008d8c,100:77d183&text=Hi%20there,%20I%27m%20Alberto%20Lazzaris!&fontSize=24&fontAlignY=40&fontColor=000000" alt="header" width="100%" />
 
 ![42](https://badgen.net/badge/Born2Code/alazzari/red?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
