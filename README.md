@@ -29,12 +29,12 @@ I'm **growing up** with my colleagues!
 
 ---
 
-**👷 Project list**
+**PROJECT LIST**
 
-**LIBFT** [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/Libft)](https://github.com/JaeSeoKim/badge42)
+**_______LIBFT_______** [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/Libft)](https://github.com/JaeSeoKim/badge42)
 
-**GET_NEXT_LINE** [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/get_next_line)](https://github.com/JaeSeoKim/badge42)
+**___GET_NEXT_LINE___** [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/get_next_line)](https://github.com/JaeSeoKim/badge42)
 
-**BORN2BEROOT** [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/Born2beroot)](https://github.com/JaeSeoKim/badge42)
+**____BORN2BEROOT____** [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/Born2beroot)](https://github.com/JaeSeoKim/badge42)
 
-**FT_PRINTF** [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/ft_printf)](https://github.com/JaeSeoKim/badge42)
+**_____FT_PRINTF_____** [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/ft_printf)](https://github.com/JaeSeoKim/badge42)
