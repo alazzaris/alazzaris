@@ -31,10 +31,10 @@ I'm **growing up** with my colleagues!
 
 **👷 Project list**
 
-[![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/Libft)](https://github.com/JaeSeoKim/badge42)
+**LIBFT** [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/Libft)](https://github.com/JaeSeoKim/badge42)
 
-[![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/get_next_line)](https://github.com/JaeSeoKim/badge42)
+**GET_NEXT_LINE** [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/get_next_line)](https://github.com/JaeSeoKim/badge42)
 
-[![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/Born2beroot)](https://github.com/JaeSeoKim/badge42)
+**BORN2BEROOT** [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/Born2beroot)](https://github.com/JaeSeoKim/badge42)
 
-[![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/ft_printf)](https://github.com/JaeSeoKim/badge42)
+**FT_PRINTF** [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/ft_printf)](https://github.com/JaeSeoKim/badge42)
