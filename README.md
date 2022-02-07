@@ -4,7 +4,7 @@
 
 I am a student developer at **42 ROMA LUISS**.
 
-[![alazzari's 42 stats](https://badge42.herokuapp.com/api/stats/alazzari)]
+![alazzari's 42 stats](https://badge42.herokuapp.com/api/stats/alazzari)
 
 
 I'm **growing up** with my colleagues!
