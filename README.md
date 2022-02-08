@@ -9,24 +9,6 @@ I'm **growing up** with my colleagues!
 
 ---
 
-**🚧 Working in Progress**
-
-```TypeScript
-(async () => {
-  console.info("Born2Code");
-
-  while (alazzaris.knowlege.length < Infinity) {
-    Promise.all([
-      alazzaris.study(),
-      alazzaris.peerLearning(),
-      alazzaris.exploringNewTopic(),
-    ]);
-  }
-})();
-```
-
----
-
 **PROJECT LIST**
 
 [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/Libft)](https://github.com/JaeSeoKim/badge42) **LIBFT**
