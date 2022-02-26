@@ -18,3 +18,5 @@ I'm **growing up** with my colleagues!
 [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/Born2beroot)](https://github.com/JaeSeoKim/badge42) **BORN2BEROOT**
 
 [![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/ft_printf)](https://github.com/JaeSeoKim/badge42) **FT_PRINTF**
+
+[![alazzari's 42Project Score](https://badge42.herokuapp.com/api/project/alazzari/push_swap)](https://github.com/JaeSeoKim/badge42) **PUSH_SWAP**
