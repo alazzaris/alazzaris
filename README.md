@@ -4,7 +4,7 @@ I am a student developer at **42 ROMA LUISS**.
 
 [![alazzari's 42 stats](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/stats?cursusId=21&coalitionId=124)](https://github.com/JaeSeoKim/badge42)
 
-**  My Project: **
+**MY PROJECT:**
 
 Libft [![alazzari's 42 Libft Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2454407)](https://github.com/JaeSeoKim/badge42)
 
