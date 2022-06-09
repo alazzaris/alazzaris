@@ -5,6 +5,7 @@ I am a student developer at **42 ROMA LUISS**.
 [![alazzari's 42 stats](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/stats?cursusId=21&coalitionId=124)](https://github.com/JaeSeoKim/badge42)
 
 My Project:
+
 Libft [![alazzari's 42 Libft Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2454407)](https://github.com/JaeSeoKim/badge42)
 
 get_next_line [![alazzari's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2461952)](https://github.com/JaeSeoKim/badge42)
@@ -25,4 +26,4 @@ Philosophers [![alazzari's 42 Philosophers Score](https://badge42.vercel.app/api
 
 Exam Rank 03 [![alazzari's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2548632)](https://github.com/JaeSeoKim/badge42)
 
-Minishell [![alazzari's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2549098)](https://github.com/JaeSeoKim/badge42)
+Minishell [![alazzari's 42 minishell Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2615526)](https://github.com/JaeSeoKim/badge42)
