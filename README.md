@@ -6,13 +6,23 @@ I am a student developer at **42 ROMA LUISS**.
 
 My Project:
 Libft [![alazzari's 42 Libft Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2454407)](https://github.com/JaeSeoKim/badge42)
+
 get_next_line [![alazzari's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2461952)](https://github.com/JaeSeoKim/badge42)
+
 ft_printf [![alazzari's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2470931)](https://github.com/JaeSeoKim/badge42)
+
 Born2beroot [![alazzari's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2468183)](https://github.com/JaeSeoKim/badge42)
+
 Exam Rank 02 [![alazzari's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2471751)](https://github.com/JaeSeoKim/badge42)
+
 push_swap [![alazzari's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2473780)](https://github.com/JaeSeoKim/badge42)
+
 so_long [![alazzari's 42 so_long Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2516957)](https://github.com/JaeSeoKim/badge42)
+
 minitalk [![alazzari's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2543005)](https://github.com/JaeSeoKim/badge42)
+
 Philosophers [![alazzari's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2549098)](https://github.com/JaeSeoKim/badge42)
+
 Exam Rank 03 [![alazzari's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2548632)](https://github.com/JaeSeoKim/badge42)
+
 Minishell [![alazzari's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2549098)](https://github.com/JaeSeoKim/badge42)
