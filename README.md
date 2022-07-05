@@ -2,11 +2,11 @@
 
 I'm a student developer at **42 ROMA LUISS**. :man_student:
 
-One of the founder of the 42 Roma Student Association --> **PDC BDE 42Roma**
+One 42 Roma Student Association's Founder --> **PDC BDE 42Roma**
 
 Digital Entrepreneur --> **http://www.wesh-in.com/**
 
-Graphic Designer (Minecraft)
+Graphic Designer (Minecraft) --> **https://sketchfab.com/AJLazza**
 
 
 
