@@ -2,7 +2,7 @@
 
 I'm a student developer at **42 ROMA LUISS**. :man_student:
 
-One 42 Roma Student Association's Founder --> **PDC BDE 42Roma**
+42 Roma Student Association's President --> **PDC BDE 42Roma**
 
 Digital Entrepreneur --> **http://www.wesh-in.com/**
 
