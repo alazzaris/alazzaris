@@ -36,3 +36,7 @@ Philosophers  [![alazzari's 42 Philosophers Score](https://badge42.vercel.app/ap
 Exam Rank 03  [![alazzari's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2548632)](https://github.com/JaeSeoKim/badge42)
 
 Minishell     [![alazzari's 42 minishell Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2615526)](https://github.com/JaeSeoKim/badge42)
+
+NetPractice   [![alazzari's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2781591)](https://github.com/JaeSeoKim/badge42)
+
+CPP Module 00 [![alazzari's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl46v0c7y001109l658orgo5j/project/2548632)](https://github.com/JaeSeoKim/badge42)
